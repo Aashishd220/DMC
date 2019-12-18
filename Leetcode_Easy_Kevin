@@ -1,0 +1,12 @@
+5. 21 Merge two sorted lists-
+  Easy- should be done in less than 5 mins next time.
+
+6. 14 Longest Common Prefix
+  Try again 
+ 
+7. 680 Valid Palindrome-
+  Try again and say if one character we can ignore than we can create other function and can send i+1,j and i,j-1
+  
+8. 383 Ransom Notes
+  map.get() will give you the value and think deep before implementing.
+  
