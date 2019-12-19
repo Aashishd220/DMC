@@ -1,3 +1,15 @@
+1. 1046 Last Stone Weight-
+	As we have to find max weight every time, use priority queue as maxHeap. It will remove highest element every time.
+
+2. 938 Range sum of BST-
+	Do it with both Iterative and Recursive approach.
+	
+3. 160 Intersection of Two Linked List-
+	Whenever we have to find the intersection, we should remember the previous nodes we have visited. Hence, use hashmap or hashset
+	
+4. 345 Reverse a string
+	Think think think.
+  
 5. 21 Merge two sorted lists-
   Easy- should be done in less than 5 mins next time.
 
@@ -10,3 +22,30 @@
 8. 383 Ransom Notes
   map.get() will give you the value and think deep before implementing.
   
+9. 344 Reverse String
+  Easy Peasy
+  
+10. 242 Valid Anagram
+Input: s = "anagram", t = "nagaram"
+Output: true
+  Two methods- 
+    first is same as for ransom notes
+    second is to use array of 26 char .
+    
+ 11. 387 First Unique char
+ s = "leetcode"
+return 0. 
+  Easy think yourself to find a different soln from kevin's.
+  
+12. 121 Best time to buy and sell stock
+ Input: [7,1,5,3,6,4]
+Output: 5 i.e. 6-1 
+    whenever we have to deal with min and max, start by initializing min=Integer.MAX_VALUE 
+ 
+ 13. 217 contains Duplicate
+ Input: [1,2,3,1]
+Output: true
+    Easy Peasy
+    
+14. 412 FizzBuzz
+  Integer.toString(i); //(to convert integer to string) here i is int
