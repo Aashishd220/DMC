@@ -5,7 +5,8 @@
 	Do it with both Iterative and Recursive approach.
 	
 3. 160 Intersection of Two Linked List-
-	Whenever we have to find the intersection, we should remember the previous nodes we have visited. Hence, use hashmap or hashset
+	Whenever we have to find the intersection, we should remember the previous nodes we have visited. Hence, use
+	hashmap or hashset
 	
 4. 345 Reverse a string
 	Think think think.
@@ -49,3 +50,9 @@ Output: true
     
 14. 412 FizzBuzz
   Integer.toString(i); //(to convert integer to string) here i is int
+
+15. 136 Single Number
+Input: [2,2,1]
+Output: 1
+	Use XOR.
+15. 20. Valid Parentheses
