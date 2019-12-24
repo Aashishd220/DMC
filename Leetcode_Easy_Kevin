@@ -71,4 +71,11 @@ Output: 1
 19. 219. Contains Duplicate II
 Do it again
 
-20.
+20. 389. Find the Difference
+Input:
+s = "abcd"
+t = "abcde"
+
+Output:
+e
+	Whenever we have to find the check the value and count, think about hashmap.
