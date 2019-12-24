@@ -61,4 +61,9 @@ Output: 1
 16. 66. Plus One
 	Easy!!
 
-17.
+17. 278. First Bad Version
+	Whenever we have to find a value in a sorted array always think of binary search to reduce the complexity to logn time.
+	To find mid=left+(right-left)/2 to reduce the chances of integer overflow.
+	
+18. 657. Robot Return to Origin
+	Easy Peasy!!
