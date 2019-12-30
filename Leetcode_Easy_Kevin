@@ -107,4 +107,10 @@ Explanation:
  	Easy Peasy!!
 
 
-25.
+25. 476. Number Complement
+	To convert binary to decimal :
+		0* 2^0+ 1* 2^1+ 1*2^2..... (1,0 anything)
+		read again.
+
+26.
+	
