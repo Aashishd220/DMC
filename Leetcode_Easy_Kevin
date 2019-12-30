@@ -88,3 +88,15 @@ Example 1:
 Input: [3,2,3]
 Output: 3
 	Think about the shortcut
+	
+23. 461. Hamming Distance
+Input: x = 1, y = 4
+
+Output: 2
+
+Explanation:
+1   (0 0 0 1)
+4   (0 1 0 0)
+       ↑   ↑
+       
+       use xor
