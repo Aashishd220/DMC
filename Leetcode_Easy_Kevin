@@ -79,3 +79,12 @@ t = "abcde"
 Output:
 e
 	Whenever we have to find the check the value and count, think about hashmap.
+21. 268. Missing Number
+Easy Peasy
+
+22. 169. Majority Element
+Example 1:
+
+Input: [3,2,3]
+Output: 3
+	Think about the shortcut
